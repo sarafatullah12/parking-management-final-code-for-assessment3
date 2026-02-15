@@ -1,0 +1,4 @@
+Plate,VehicleType,PassType,ExpiryDate
+CAR_MONTHLY,car,Monthly Pass,2026-03-13
+CRED1,truck,Monthly Pass,2026-03-03
+CRED2,car,Weekly Pass,2026-02-16

@@ -1,0 +1,4 @@
+Date,Plate,VehicleType,PassType,Amount,Hours
+2026-02-11 04:01:43,CAR_MONTHLY,car,Monthly Pass,150,0
+2026-02-11 04:02:07,DUPE1,car,Single Entry,7,1
+2026-02-11 04:02:33,GOOD1,car,Single Entry,7,1
